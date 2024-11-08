@@ -27,9 +27,6 @@ Feel free to explore the design and suggest improvements.
 ## Technologies Used
 
 - **Design Tool**: Figma
-- **Frontend (if applicable)**: React.js, HTML, CSS
-- **Backend (if applicable)**: Node.js, Express
-- **Database**: MySQL
 
 ---
 
